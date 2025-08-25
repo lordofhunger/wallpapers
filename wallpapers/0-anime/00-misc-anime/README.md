@@ -17,3 +17,5 @@
 <img src="015-honey-and-clover.png" alt=""/>
 <img src="016-honey-and-clover.png" alt=""/>
 <img src="017-mayuri-shiina.png" alt=""/>
+<img src="018-space-battleship.png" alt=""/>
+<img src="019-space-battleship.png" alt=""/>
