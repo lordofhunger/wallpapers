@@ -14,7 +14,7 @@ Gathered from forums, archives, screenshots, and friends. Some were used in rice
 All wallpapers live in `wallpapers/`, grouped thematically and numbered for structure.  
 Each folder contains a local `README.md` for previews and description.
 
-There are **541 wallpapers** across **42 folders** and growing.
+There are **543 wallpapers** across **42 folders** and growing.
 Requests that are not wallpapers (videos, colour schemes) can be found in 'other-requests'.
 
 - `00–09`: Anime, general and specific, as well as ghibli movies 
